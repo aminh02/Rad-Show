@@ -2,13 +2,13 @@
 <img width="745" alt="Interactive CLI tool" src="https://github.com/aminh02/Rad-Show/assets/90900584/d49f3a8e-ce15-4048-9854-aa4be55c9b0f">
 
 
-# Rad-Show: macOS System DNS Setter
+# Rad-Show: macOS & Linux System DNS Tool
 
 This is a TUI written in python with ncurses. It supports a number of popular DNS providers, including Google, OpenDNS, and Cloudflare. It also enables Iranian users to choose DNS providers that circumvent bans on Iranian IP addresses.
 
 ## Usage
 
-The script requires Python 3. To use it, open a terminal and navigate to the directory containing the script. Then, run the script:
+The script requires Python 3 and runs in Linux and macOS. To use it, open a terminal and navigate to the directory containing the script. Then, run the script:
 
 ```shell
 git clone https://github.com/aminh02/Rad-Show.git
